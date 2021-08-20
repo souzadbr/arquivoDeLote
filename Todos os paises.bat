@@ -37,4 +37,9 @@ md "Tocantins"
 md "Parana"
 md "Santa Catarina"
 md "Rio Grande do Sul"
+md "Sao Paulo"
+md "Rio de Janeiro"
+md "Espirito Santo"
+md "Minas Gerais"
+
 
