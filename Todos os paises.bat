@@ -34,4 +34,7 @@ md "Para"
 md "Rondonia"
 md "Roraima"
 md "Tocantins"
+md "Parana"
+md "Santa Catarina"
+md "Rio Grande do Sul"
 
