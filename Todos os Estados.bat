@@ -5,7 +5,6 @@ md "Nordeste"
 md "Norte"
 md "Sul"
 md "Sudeste"
-cd..
 cd "Centro-oeste"
 md "Goias"
 md "Mato Grosso"
